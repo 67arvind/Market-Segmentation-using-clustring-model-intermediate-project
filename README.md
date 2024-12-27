@@ -23,14 +23,15 @@ Customer Retention Strategies: Identify at-risk segments and develop retention s
 Product Development: Use insights to create new insurance products or credit card features that cater to the unique needs of different segments.
 # Technologies Used
 Python
-Pandas (for data manipulation)
-NumPy (for numerical analysis)
-Scikit-learn (for clustering algorithms)
-Matplotlib/Seaborn (for data visualization)
+• Pandas (for data manipulation)
+
+• NumPy (for numerical analysis)
+• Scikit-learn (for clustering algorithms)
+• Matplotlib/Seaborn (for data visualization)
 # Getting Started
-Clone the repository or download the files.
+• Clone the repository or download the files.
 Install the required packages: pip install -r requirements.txt
 Run the Jupyter Notebook (market_segmentation_model.ipynb) to explore the analysis and segmentation process.
 
 License
-This project is licensed under the MIT License.
+• This project is licensed under the MIT License.
