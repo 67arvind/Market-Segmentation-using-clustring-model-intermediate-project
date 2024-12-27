@@ -32,5 +32,5 @@ Product Development: Use insights to create new insurance products or credit car
 •Install the required packages: pip install -r requirements.txt
 • Run the Jupyter Notebook (market_segmentation_model.ipynb) to explore the analysis and segmentation process.
 
-License
+# License
 • This project is licensed under the MIT License.
